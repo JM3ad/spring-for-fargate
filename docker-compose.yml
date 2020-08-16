@@ -1,9 +1,5 @@
 version: '2.0'
 services:
-  web:
-    build: .
-    ports:
-      - "8080:8080"
   db:
     image: postgres:9.6-alpine
     restart: always

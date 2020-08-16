@@ -1,0 +1,10 @@
+### Get the test endpoint
+GET {{service-hostname}}/test
+
+### Get the test DB endpoint
+GET {{service-hostname}}/db-test
+
+### Get the healthcheck endpoint
+GET {{service-hostname}}/
+
+###

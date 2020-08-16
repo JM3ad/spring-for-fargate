@@ -1,7 +1,0 @@
-### Get the test endpoint
-GET http://localhost:8080/test
-
-### Get the healthcheck endpoint
-GET http://localhost:8080/
-
-###

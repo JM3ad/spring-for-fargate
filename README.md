@@ -12,4 +12,5 @@
 
 ### Deploy to AWS
 * Log into docker & AWS in powershell
+* `aws ecr get-login-password | docker login -u AWS --password-stdin 521082294481.dkr.ecr.eu-west-2.amazonaws.com/my-container-repo`
 * Run `release.ps1`
