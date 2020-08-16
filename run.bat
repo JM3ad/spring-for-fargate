@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-11\bin\java.exe" -jar target/spring-demo-0.0.1-SNAPSHOT.jar
